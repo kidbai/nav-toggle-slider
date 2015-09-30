@@ -49,7 +49,7 @@ a {
 
 
 .sidebar li:hover, .sidebar li:hover .link {
-  color: #2196f3;
+  color: #2196f3  ;
 }
 
 .sidebar li:last-child .link {
